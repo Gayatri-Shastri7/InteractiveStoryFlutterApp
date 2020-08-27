@@ -1,4 +1,4 @@
-# interactivestory
+# Interactive Story
 
 A new Flutter application.
 
